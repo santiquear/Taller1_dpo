@@ -1,0 +1,13 @@
+tipo:diesel:20:100.0
+tipo:extra:15:100.0
+tipo:corriente:30:100.0
+tipo:electrica:30:100.0
+surtidor:Nano:diesel:0.0:extra:0.0:corriente:0.0:electrica:0.0
+surtidor:maria:diesel:0.0:extra:0.0:corriente:0.0:electrica:0.0
+surtidor:samuel:diesel:0.0:extra:0.0:corriente:0.0:electrica:0.0
+surtidor:maria:diesel:0.0:extra:0.0:corriente:0.0:electrica:0.0
+empleado:Nano:0
+empleado:santiago:0
+empleado:andres:0
+empleado:samuel:0
+empleado:maria:0
